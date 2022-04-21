@@ -1,7 +1,11 @@
 # M2_Obstacle-Detector
 ## Badges
+#### CI and Code Quality
 
-[![Cppcheck](https://github.com/Pranesh-here/M2_Obstacle-Detector/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Pranesh-here/M2_Obstacle-Detector/actions/workflows/cppcheck.yml)
+|Build|Cppcheck|Codacy|
+|:--:|:--:|:--:|
+[![Build Status](https://github.com/Pranesh-here/M2_Obstacle-Detector/actions/workflows/compile.yml/badge.svg)](https://github.com/Pranesh-here/M2_Obstacle-Detector/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/Pranesh-here/M2_Obstacle-Detector/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Pranesh-here/M2_Obstacle-Detector/actions/workflows/cppcheck.yml)|
+
 
 ## Folder Structure
 | Folder | Description |
