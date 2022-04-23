@@ -88,6 +88,11 @@ __Low Level Requirements__
 
 ![Structural diagram drawio](https://user-images.githubusercontent.com/83327670/164479056-9e3d3547-f949-4b27-b501-223693cfab30.png)
 
+## Behaviour Diagram
+
+![Behavioural diagram](https://user-images.githubusercontent.com/83327670/164895995-d99ee0d2-83ac-4e52-b3cd-63abb0fdc569.png)
+
+
 ## Simulation
 __(OFF)__
 
